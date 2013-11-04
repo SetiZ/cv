@@ -1,9 +1,11 @@
-///// Cool Kitten - Parrallax Scrolling responsive frame work - 1.0 /////
-Author: Jalxob
-Release Date: February 2013.
+# CV Mehdi #
 
-///// Building /////
+j'utilise cool kitten pour refaire mon cv en mode responsive.
 
+
+
+
+## Building ##
 A small build script is included in order to minify and concatenate your javascript and css files. In order to use this script, you need to have *clean-css* and *uglify-js* installed globally using npm.
 
 ``` bash
