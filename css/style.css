@@ -40,8 +40,8 @@ a:visited {
 .menu {
 	position:fixed;
 	top:0px;
-	width:100%; 
-	height:auto; 
+	width:100%;
+	height:auto;
 	background-color:#ffffff;
 	z-index:100;
 }
@@ -76,7 +76,7 @@ nav {
 
 
 
-/* General Slides */ 
+/* General Slides */
 
 .slide{
 	background-attachment: fixed;
@@ -88,7 +88,7 @@ nav {
 
 
 
-/* Slide 1 */ 
+/* Slide 1 */
 
 #slide1{
 	background-color:#ffffff;
@@ -111,7 +111,7 @@ nav {
 
 
 
-/* Slide 2 */ 
+/* Slide 2 */
 
 #slide2{
 	background-image:url('../images/footprints.png');
@@ -136,7 +136,7 @@ nav {
 
 
 
-/* Slide 3 */ 
+/* Slide 3 */
 
 #slide3{
 	background-color:#ffffff;
@@ -276,11 +276,9 @@ nav {
 }
 
 #nav {
-    /*display:none;*/
-
-	width:100%;
-	margin:5px 0;
-
+    display:none;
+	/*width:100%;
+	margin:5px 0;*/
 }
 
 .navigation{
