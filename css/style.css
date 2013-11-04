@@ -156,8 +156,8 @@ nav {
 	font-weight: 400;
 }
 #test{
-	background-color:#bde2df;
-	color:#ffffff;
+	background-color:#fff;
+	color:#000;
 	text-align:center;
 	font-size: 2em;
 	font-weight: 400;
@@ -189,7 +189,32 @@ nav {
 }
 
 
+/* Slide 5 */
 
+#slide5{
+	background-color:#ffffff;
+}
+#slide5 h1 {
+	font-size: 3.8em;
+	letter-spacing: -3px;
+	line-height: 0px;
+	color:#8a8683;
+	font-weight: 700;
+}
+#slide5 h2 {
+	font-size: 2em;
+	color: #8a8683;
+	line-height: 0px;
+	padding-bottom:20px;
+	font-weight: 400;
+}
+#test{
+	background-color:#bde2df;
+	color:#ffffff;
+	text-align:center;
+	font-size: 2em;
+	font-weight: 400;
+}
 
 
 /* Tablet */
@@ -261,6 +286,12 @@ nav {
 #slide4 h2 {
 	line-height: 1em;
 }
+#slide5 h1 {
+	line-height: 1em;
+}
+#slide5 h2 {
+	line-height: 1em;
+}
 
 }
 
@@ -326,7 +357,12 @@ nav {
 #slide4 h2 {
 	line-height: 1em;
 }
-
+#slide5 h1 {
+	line-height: 1em;
+}
+#slide5 h2 {
+	line-height: 1em;
+}
 
 }
 
