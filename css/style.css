@@ -124,9 +124,11 @@ a:visited {
 /* Slide 2 */
 
 #slide2{
-	background-image:url('../images/footprints.png');
+	background-image:url('../images/background.jpg');
 	background-color:#f68f67;
 	color:#ffffff;
+    min-height:100%;
+    background-size:cover;
 }
 #slide2 h1 {
 	font-size: 3.8em;
