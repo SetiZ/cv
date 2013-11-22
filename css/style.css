@@ -73,6 +73,7 @@ a:visited {
     text-align: right;
 }
 
+
 /* Navigation */
 
 .menu {
@@ -112,7 +113,23 @@ a:visited {
 	font-weight:bold;
 }
 
+@media print {
+    #logo {
+	   /*width: 100%;
+	   text-align: center;*/
+        display:none;
+    }
 
+    #nav {
+        display:none;
+	   /*width:100%;
+	   margin:5px 0;*/
+    }
+
+    #links {
+        display:none;
+    }
+}
 
 
 /* General Slides */
@@ -124,8 +141,6 @@ a:visited {
 	position: relative;
 	padding:140px 0;
 }
-
-
 
 /* Slide 1 */
 
