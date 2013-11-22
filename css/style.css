@@ -113,24 +113,6 @@ a:visited {
 	font-weight:bold;
 }
 
-@media print {
-    #logo {
-	   /*width: 100%;
-	   text-align: center;*/
-        display:none;
-    }
-
-    #nav {
-        display:none;
-	   /*width:100%;
-	   margin:5px 0;*/
-    }
-
-    #links {
-        display:none;
-    }
-}
-
 
 /* General Slides */
 
