@@ -61,7 +61,7 @@ div#mast img {
 .grid_12:first-child {
     border-top:none;
 }
-
+/*
 h1 {
     margin-bottom:10px;
     font-size: 2em;
@@ -78,7 +78,7 @@ h2 {
     padding-top:10px;
 	font-weight: 400;
 }
-	
+*/	
 a:link, 
 a:visited { 
 	color: #520; 
