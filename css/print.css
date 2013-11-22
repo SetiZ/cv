@@ -1,8 +1,7 @@
 body { 
 	background: white; 
 	font-size: 12pt;
-    width: 0 auto;
-    max-width:62.5em;
+	padding-top:50px;
 }
 	
 #menu { 
@@ -51,7 +50,7 @@ div#mast img {
 
 #title{
 	font-size: 1em;
-	font-weight: 200;
+	font-weight:bold;
 }
 
 .grid_12{
@@ -60,6 +59,10 @@ div#mast img {
 
 .grid_12:first-child {
     border-top:none;
+}
+
+h1,h2 {
+	padding-top:20px;
 }
 /*
 h1 {
