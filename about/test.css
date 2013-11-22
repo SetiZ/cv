@@ -42,7 +42,7 @@ div.about p
 	border-radius: 50px;
 	-webkit-border-radius: 50px;
 	-moz-border-radius: 50px;
-	background: url('../images/eightbitme.png') no-repeat;
+	background: url('eightbitme.png') no-repeat;
     margin-right:0;
     float: right;
 	}
