@@ -61,6 +61,20 @@ div#mast img {
 .grid_12:first-child {
     border-top:none;
 }
+
+h1 {
+    font-size: 2em;
+	line-height: 0px;
+	padding-bottom:10px;
+	font-weight: 400;
+}
+
+h2 {
+    font-size: 1.5em;
+	line-height: 0px;
+	padding-bottom:10px;
+	font-weight: 400;
+}
 	
 a:link, 
 a:visited { 
