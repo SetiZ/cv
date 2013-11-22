@@ -8,6 +8,22 @@ body {
 #menu { 
 	display: none; 
 }
+
+#logo {
+    display:none;
+}
+
+#nav {
+    display:none;
+}
+
+#links {
+    display:none;
+}
+    
+#footer{
+    display:none;
+}
 	
 #container { 
 	width: auto; 
@@ -32,6 +48,19 @@ div#mast {
 div#mast img { 
 	vertical-align: bottom; 
 }
+
+#title{
+	font-size: 1em;
+	font-weight: 200;
+}
+
+.grid_12{
+  border-top: 1px solid #acacac;  
+}
+
+.grid_12:first-child {
+    border-top:none;
+}
 	
 a:link, 
 a:visited { 
@@ -45,20 +74,4 @@ a:visited {
 #content a:visited:after { 
 	content: " (" attr(href) ") "; 
 	font-size: 90%; 
-}
-
-#logo {
-    display:none;
-}
-
-#nav {
-    display:none;
-}
-
-#links {
-    display:none;
-}
-    
-#footer{
-    display:none;
 }
