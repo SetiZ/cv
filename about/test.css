@@ -26,59 +26,58 @@ div.about  {
     margin: 10% auto;
     overflow: hidden;
     z-index: 100;
+    text-align:center;
 }
 
 div.about .title {
     margin:40px;
+    text-align:center;
+    margin-bottom:20px;
     color:#000;
-    float: left;
+    /*float: left;*/
 }
 
 .circular {
-    margin:40px;
+    margin:10% auto;
     width: 100px;
     height: 100px;
     border-radius: 50px;
     -webkit-border-radius: 50px;
     -moz-border-radius: 50px;
     background: url('eightbitme.png') no-repeat;
-    float: right;
+    /*float: right;*/
 }
 
 .blabla {
     width:100%;
-    float: left;
     text-align:center;
+    font-weight:bold;
+    margin-bottom:50px;
 }
 
 .links {
-    width:100%;
-    float:left;
+    /*width:100%;*/
     text-align:center;
-    margin-left:7%;
+}
+
+a {
+ text-decoration:none;
+ color:#000;
 }
 
 .link {
     text-align:center;
-    width:25%;
-    float:left;
-    padding-left:10px;
-    padding-right:10px;
-    margin:0 auto;
+    font-weight:bold;
+    font-size:larger;
+    /*width:25%;
+    float:left;*/
+    padding-left:20px;
+    padding-right:20px;
+    margin:10% auto;
+    width:200px;
+    border:1px #d11829;
 }
 
 .link:hover {
-    background:rgba(0,255,255,0.3);
-}
-
-/* Mobile */
-@media screen and (max-width: 480px) {
-    .circular .title {
-        width:100%;   
-        text-align:center;
-    }
-div.about {
-    
-}
-
+    color: #d11829;
 }
