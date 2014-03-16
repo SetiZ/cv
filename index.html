@@ -4,7 +4,11 @@
 		<meta charset="utf-8" />
 		<script type="text/javascript">
 			var userLang = navigator.language || navigator.userLanguage;
-			window.location.replace(userLang + "/");
+			if (userLang.indexOf("fr") != -1) {
+				window.location.replace("fr/");
+			} else {
+				window.location.replace("en/");
+			}
 		</script>
 	</head>
 	<body>
