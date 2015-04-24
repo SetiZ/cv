@@ -1,5 +1,5 @@
 # CV Mehdi #
-I used Cool Kitten framework (www.jalxob.com/cool-kitten) to redo my résumé in responsive.
+I used Cool Kitten framework (http://github.com/jalxob/cool-kitten) to redo my résumé in responsive.
 
 to use rasterize, you need to install phantomjs first then:
 
