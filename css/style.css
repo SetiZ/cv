@@ -31,7 +31,9 @@ a:visited {
 	border-radius: 50px;
 	-webkit-border-radius: 50px;
 	-moz-border-radius: 50px;
-	background: url('../images/Mehdi-Icon.png') no-repeat;
+	background-image: url('../images/Mehdi-Icon.png');
+    background-repeat:  no-repeat;
+    background-size: contain;
 	}
 
 .circular2 {
@@ -41,7 +43,8 @@ a:visited {
 	border-radius: 25px;
 	-webkit-border-radius: 25px;
 	-moz-border-radius: 25px;
-	background: url('../images/Mehdi-Icon.png') no-repeat;
+	background-image: url('../images/Mehdi-Icon.png');
+    background-repeat:  no-repeat;
     background-size: 50px;
 	}
 
