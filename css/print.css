@@ -23,6 +23,10 @@ body {
 #footer{
     display:none;
 }
+
+.slide {
+    padding-top: 40px;
+}
 	
 #container { 
 	width: auto; 
